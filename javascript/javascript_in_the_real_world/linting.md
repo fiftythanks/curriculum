@@ -27,7 +27,6 @@ There are multiple options for linting your JavaScript, but the most popular (an
     - You may also want to look at the [docs on configuring ESLint](https://eslint.org/docs/latest/use/configure/) for a list of options that you can change.
 1. There is an [ESLint extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) with which you can get automatic lint highlighting for your files as you write, without you needing to rerun the `eslint` command every time. If your open workspace also contains an ESLint configuration file at the top level, the extension will automatically use those rules for that project.
 
-<div class="lesson-note lesson-note--warning" markdown="1">
 
 #### ESLint v9 and flat config support
 
